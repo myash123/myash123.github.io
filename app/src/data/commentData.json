@@ -1,0 +1,28 @@
+[
+    {
+        "id": "1",
+        "userName": "Michael Lampineli",
+        "userTitle": "Customer Success Man",
+        "userComment": "I think this site is very cool and I'm a pretty nice guy",
+        "numFavorites": "5",
+        "userImageUrl": "../../assets/logo192.png"
+    },
+
+    {
+        "id": "2",
+        "userName": "Larry Elfbar",
+        "userTitle": "Delivery Driver",
+        "userComment": "Deliveriyign stuff to me is something that can be cool",
+        "numFavorites": "4",
+        "userImageUrl": "../../assets/logo192.png"
+    },
+
+    {
+        "id": "2",
+        "userName": "Larry Elfbar",
+        "userTitle": "Delivery Driver",
+        "userComment": "Deliveriyign stuff to me is something that can be cool",
+        "numFavorites": "4",
+        "userImageUrl": "../../assets/logo192.png"
+    }
+]

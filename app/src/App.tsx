@@ -1,11 +1,11 @@
 import './App.css';
-import Comment from './components/comment/comment.tsx';
+import CommentSection from './components/commentSection/commentSection.tsx';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <Comment/>
+        <CommentSection />
       </header>
     </div>
   );
